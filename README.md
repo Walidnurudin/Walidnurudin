@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning javascript and nodejs.
 - ⚡ Fun fact: I'm a football fan😄
 - 📫 How to reach me:
+  - Telegram : [@WalidNurudin](https://t.me/WalidNurudin)
+  - LinkedIn : [@adipurnamk](https://www.linkedin.com/in/walidnurudin/)
