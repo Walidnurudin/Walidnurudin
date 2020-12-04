@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning javascript and nodejs.
+- 🌱 I’m currently learning fullstack developer.
 - ⚡ Fun fact: I'm a football fan😄
 - 📫 How to reach me:
   - Telegram : [@WalidNurudin](https://t.me/WalidNurudin)
