@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Telegram : [@WalidNurudin](https://t.me/WalidNurudin)
   - LinkedIn : [@walidnurudin](https://www.linkedin.com/in/walidnurudin/)
-  - Telegram : [@walidnurudin_](https://www.instagram.com/walidnurudin_/)
+  - Instagram : [@walidnurudin_](https://www.instagram.com/walidnurudin_/)
