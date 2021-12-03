@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning javascript & go.
+- 🌱 I’m currently learning javascript.
 - ⚡ Fun fact: I'm a football fan😄
 - 📫 How to reach me:
   - Telegram : [@WalidNurudin](https://t.me/WalidNurudin)
