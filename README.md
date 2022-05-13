@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&&color=auto&height=300&section=header&text=Hi,%20I'm%20Walid%20nurudin%20👋&fontSize=90&fontColor=00000)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hi,%20I'm%20Walid%20nurudin%20👋&fontSize=50&fontColor=00000)
 
 
 - 🌱 I’m currently learning javascript.
