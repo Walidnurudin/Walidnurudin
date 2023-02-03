@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hi,%20I'm%20Walid%20nurudin%20👋&fontSize=50&fontColor=00000)
 
 
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript
 - ⚡ Fun fact: I'm a football fan😄
 - 📫 How to reach me:
   - Telegram : [@WalidNurudin](https://t.me/WalidNurudin)
