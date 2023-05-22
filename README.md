@@ -22,10 +22,11 @@ Here are some ideas to get you started:
   - Telegram : [@WalidNurudin](https://t.me/WalidNurudin)
   - LinkedIn : [@walidnurudin](https://www.linkedin.com/in/walidnurudin/)
   - Instagram : [@walidnurudin_](https://www.instagram.com/walidnurudin_/)
--->
+
 
 [![Walidnurudin's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidnurudin&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidnurudin&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walidnurudin&repo=portfolio&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=Walidnurudin)](https://holopin.io/@walidnurudin)
